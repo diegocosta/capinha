@@ -4,6 +4,8 @@ object-assign
 @license MIT
 */
 
+/*! dom-to-image-more 21-05-2019 */
+
 /** @license React v0.20.2
  * scheduler.production.min.js
  *
