@@ -1,4 +1,4 @@
-/*! dom-to-image-more 06-12-2021 */
+/*! dom-to-image-more 12-05-2022 */
 
 /**
  * @license React
